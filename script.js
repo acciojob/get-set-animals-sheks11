@@ -3,8 +3,8 @@ class Animal {
 	constructor(species){
 		
 	}
-	get makeSound(){
-		console.log("")
+	makeSound(){
+		
 	}
 }
 
